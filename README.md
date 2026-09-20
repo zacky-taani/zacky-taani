@@ -6,8 +6,8 @@
 - i enjoy turning ideas into real projects while continuously improving my skills in web development.
 - I'm currently expanding my knowledge in JavaScript, React, Git/GitHub, and modern frontend development while working toward becoming a **Full-Stack Software Engineer**.
 <h1>🚀 My Projects</h1>
-<p>CryptoLand-ProjecT (https://github.com/mrzaakir/CryptoLand-ProjecT)</p>
-<p>React and Tailwind Project (https://github.com/mrzaakir/Ai-Company-Landing)</p>
+<p>CryptoLand-ProjecT (https://github.com/zacky-taani/CryptoLand-ProjecT)</p>
+<p>React and Tailwind Project (https://github.com/zacky-taani/Ai-Company-Landing)</p>
 
 ## 🧠 Focus Areas
 - 🌐 Frontend Web Development
