@@ -3,10 +3,6 @@
 
 ## 📌 About Me
 - I'm **Zakaria Kalid**, a Full-Stack Developer and problem solver who enjoys building practical products, exploring new technologies, and turning ideas into working solutions.
-<h1>🏆 Achievements</h1>
-<p>🚀 Reached my goal of becoming a Full-Stack Developer</p>
-<p>🤖 Expanded into AI, Machine Learning, Data Science & LLMs</p>
-<p>🛠️ Built and shipped projects across frontend, backend, and AI</p>
 
 ## 💻 My Work
 <p>I build modern web applications and intelligent digital solutions, combining clean interfaces, backend systems, APIs, databases, and AI.</p>
