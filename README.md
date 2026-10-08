@@ -14,3 +14,7 @@
 03. <p>Data Science</p>
 04. <p>LLMs & AI Integration</p>
 05. <p>Problem Solving & Product Building</p>
+
+## 🚀 Focus
+
+<h4>Build. Learn. Solve. Improve.</h4>
