@@ -2,9 +2,7 @@
 
 
 ## 📌 About Me
-- I'm **Zakaria Kalid**, a passionate **Computer Science student** and aspiring Frontend Developer with a strong interest in building modern, responsive, web applications.
-- i enjoy turning ideas into real projects while continuously improving my skills in web development.
-- I'm currently expanding my knowledge in JavaScript, React, Git/GitHub, and modern frontend development while working toward becoming a **Full-Stack Software Engineer**.
+- I'm **Zakaria Kalid**, a Full-Stack Developer and problem solver who enjoys building practical products, exploring new technologies, and turning ideas into working solutions.
 <h1>🚀 My Projects</h1>
 <p>CryptoLand-ProjecT (https://github.com/zacky-taani/CryptoLand-ProjecT)</p>
 <p>React and Tailwind Project (https://github.com/zacky-taani/Ai-Company-Landing)</p>
