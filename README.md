@@ -9,11 +9,11 @@
 
 ## 🧠 My Five
 
-01. <p>Full-Stack Development</p>
-02. <p>AI & Machine Learning</p>
-03. <p>Data Science</p>
-04. <p>LLMs & AI Integration</p>
-05. <p>Problem Solving & Product Building</p>
+01. <h5>Full-Stack Development</h5>
+02. <h5>AI & Machine Learning</h5>
+03. <h5>Data Science</h5>
+04. <h5>LLMs & AI Integration</h5>
+05. <h5>Problem Solving & Product Building</h5>
 
 ## 🚀 Focus
 
