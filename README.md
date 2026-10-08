@@ -11,23 +11,10 @@
 ## 💻 My Work
 <p>I build modern web applications and intelligent digital solutions, combining clean interfaces, backend systems, APIs, databases, and AI.</p>
 
-## 🛠️ Languages & Tools
+## 🧠 My Five
 
-<h5 align="left">Programming Languages</h5>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="18" />
-
-</p>
-
-<h5 align="left">Frontend</h5>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="18" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="18" />
-
-</p>
-
-<h5 align="left">Database</h5>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="18" />
-
-</p>
+01. <p>Full-Stack Development</p>
+02. <p>AI & Machine Learning</p>
+03. <p>Data Science</p>
+04. <p>LLMs & AI Integration</p>
+05. <p>Problem Solving & Product Building</p>
