@@ -8,12 +8,8 @@
 <p>🤖 Expanded into AI, Machine Learning, Data Science & LLMs</p>
 <p>🛠️ Built and shipped projects across frontend, backend, and AI</p>
 
-## 🧠 Focus Areas
-- 🌐 Frontend Web Development
-- ⚛️ React & Modern JavaScript (ES6+)
-- 🎨 Responsive Design
-- 🔄 Git & GitHub Workflow
-- 📚 Continuous Learning
+## 💻 My Work
+<p>I build modern web applications and intelligent digital solutions, combining clean interfaces, backend systems, APIs, databases, and AI.</p>
 
 ## 🛠️ Languages & Tools
 
