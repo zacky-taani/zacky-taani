@@ -4,8 +4,9 @@
 ## 📌 About Me
 - I'm **Zakaria Kalid**, a Full-Stack Developer and problem solver who enjoys building practical products, exploring new technologies, and turning ideas into working solutions.
 <h1>🏆 Achievements</h1>
-<p>CryptoLand-ProjecT (https://github.com/zacky-taani/CryptoLand-ProjecT)</p>
-<p>React and Tailwind Project (https://github.com/zacky-taani/Ai-Company-Landing)</p>
+🚀 Reached my goal of becoming a Full-Stack Developer
+🤖 Expanded into AI, Machine Learning, Data Science & LLMs
+🛠️ Built and shipped projects across frontend, backend, and AI
 
 ## 🧠 Focus Areas
 - 🌐 Frontend Web Development
